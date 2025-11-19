@@ -7,7 +7,7 @@
 This repository contains the open-sourced **Mirza Pro Bot** project, enhanced with a powerful automated management script for easy installation and maintenance.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ExPLoSiVe1988/Mirza-Pro/main/Banner.jpg" alt="Mirza Pro Bot Banner" width="600"/>
+  <img src="https://raw.githubusercontent.com/amirsadra0098/Mirza-Pro/main/Banner.jpg" alt="Mirza Pro Bot Banner" width="600"/>
 </p>
 
 ## 🎉 The Pro Version is Now Open Source!
@@ -31,7 +31,7 @@ This repository provides a powerful bash script that simplifies the entire lifec
 To install the bot using the management script, run the following command as a root user:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/ExPLoSiVe1988/Mirza-Pro/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/amirsadra0098/Mirza-Pro/main/install.sh)
 ```
 
 **Menu Options:**
@@ -79,6 +79,4 @@ If you find this management script useful, you can support its developer for mai
 
 ### 👥 Credits
 *   **Original Project (Mirza Pro Bot):** [mahdiMGF2](https://github.com/mahdiMGF2)
-*   **Management Script Developer:** 
-    *   Telegram: [@H_ExPLoSiVe](https://t.me/H_ExPLoSiVe)
-    *   Channel: [@Botgineer](https://t.me/Botgineer)
+*   **Management Script Developer:**
