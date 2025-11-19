@@ -16,8 +16,8 @@ print_header() {
     echo -e "${GREEN} ##                  Mirza Pro Bot                       ##${NC}"
     echo -e "${GREEN}  ##            Automated Management Script             ##${NC}"
     echo -e "${GREEN}   ##                                                  ##${NC}"
-    echo -e "${GREEN}  ##     Installer by @H_ExPLoSiVe (ExPLoSiVe1988)      ##${NC}"
-    echo -e "${GREEN} ##     Based on the original project by mahdiMGF2       ##${NC}"
+    echo -e "${GREEN}  ##     Installer by sadra.                           ##${NC}"
+    echo -e "${GREEN} ##     Based on the original project by amg.            ##${NC}"
     echo -e "${GREEN}##                                                        ##${NC}"
     echo -e "${GREEN}############################################################${NC}"
     echo ""
@@ -114,7 +114,7 @@ MYSQL_SCRIPT
 
     echo -e "${BLUE}Step 4: Downloading Source Code...${NC}"
     rm -rf /var/www/mirza_pro
-    git clone https://github.com/ExPLoSiVe1988/Mirza-Pro.git /var/www/mirza_pro > /dev/null 2>&1
+    git clone https://github.com/amirsadra0098/Mirza-Pro.git /var/www/mirza_pro > /dev/null 2>&1
     chown -R www-data:www-data /var/www/mirza_pro
 
     echo -e "${BLUE}Step 5: Generating config.php...${NC}"
